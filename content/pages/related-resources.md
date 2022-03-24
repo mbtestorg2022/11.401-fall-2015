@@ -12,7 +12,7 @@ Kennedy, Maureen, and Paul Leonard. "[_Dealing with Neighborhood Change: A Prime
 
 Vale, Lawrence J. "[Beyond the Problem Projects Paradigm: Defining and Revitalizing 'Severely Distressed' Public Housing](http://dx.doi.org/10.1080/10511482.1993.9521129)." _Housing Policy Debate_ 4, no. 2 (1993): 147–74.
 
-Warren, Mark R. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Communities and Schools: A New View of Urban Education Reform." (PDF)](http://hepgjournals.org/doi/pdf/10.17763/haer.75.2.m718151032167438) _Harvard Educational Review_ 75, no. 2 (2005): 133. (Research Library Core)
+Warren, Mark R. ["Communities and Schools: A New View of Urban Education Reform." (PDF)](http://hepgjournals.org/doi/pdf/10.17763/haer.75.2.m718151032167438) _Harvard Educational Review_ 75, no. 2 (2005): 133. (Research Library Core)
 
 Joseph, Mark L., Robert J. Chaskin, et al. "[The Theoretical Basis for Addressing Poverty Through Mixed-Income Development](http://dx.doi.org/10.1177/1078087406294043)." _Urban Affairs Review_ 42, no. 3 (2007): 369–409.
 

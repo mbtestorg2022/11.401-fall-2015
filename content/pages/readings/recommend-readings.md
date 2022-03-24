@@ -150,7 +150,7 @@ None
 The nature of community in 21st century America: Networks, places, social capital
 {{< tdclose >}}
 {{< tdopen >}}
-Chen, Wenhong, and Barry Wellman. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Charting Digital Divides: Comparing Socioeconomic, Gender, Life Stage, and Rural-Urban Internet Access and Use in Eight Countries." (PDF)](https://www.researchgate.net/publication/288922845_Charting_digital_divides_Comparing_socioeconomic_gender_life_stage_and_rural-urban_internet_access_and_use_in_five_countries)
+Chen, Wenhong, and Barry Wellman. ["Charting Digital Divides: Comparing Socioeconomic, Gender, Life Stage, and Rural-Urban Internet Access and Use in Eight Countries." (PDF)](https://www.researchgate.net/publication/288922845_Charting_digital_divides_Comparing_socioeconomic_gender_life_stage_and_rural-urban_internet_access_and_use_in_five_countries)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -190,7 +190,7 @@ Buckley, James M. Review Essay: "[From Centered to Networked: Housing America in
 
 Lemann, Nicholas. "[The Myth of Community Development](http://www.nytimes.com/1994/01/09/magazine/the-myth-of-community-development.html?pagewanted=all)." _The New York Times Magazine_, January 1994.
 
-Keyes, Langley C., Alex Schwartz, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Networks and Nonprofits: Opportunities and Challenges in an Era of Federal Devolution." (PDF)](http://dx.doi.org/10.1080/10511482.1996.9521219) _Housing Policy Debate_ 7, no. 2 (1996): 201–29.
+Keyes, Langley C., Alex Schwartz, et al. ["Networks and Nonprofits: Opportunities and Challenges in an Era of Federal Devolution." (PDF)](http://dx.doi.org/10.1080/10511482.1996.9521219) _Housing Policy Debate_ 7, no. 2 (1996): 201–29.
 
 
 {{< tdclose >}}
@@ -234,15 +234,15 @@ Housing markets and policy: The basics
 {{< tdopen >}}
 
 
-Joint Center for Housing Studies. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The State of the Nation's Housing." (PDF - 7.5MB)](http://www.jchs.harvard.edu/sites/jchs.harvard.edu/files/jchs-sonhr-2015-full.pdf) Executive Summary (2015): 1–6.
+Joint Center for Housing Studies. ["The State of the Nation's Housing." (PDF - 7.5MB)](http://www.jchs.harvard.edu/sites/jchs.harvard.edu/files/jchs-sonhr-2015-full.pdf) Executive Summary (2015): 1–6.
 
-National Low Income Housing Coalition. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Out of Reach Introduction and Where The Numbers Come From." (PDF - 9.0MB)](http://nlihc.org/sites/default/files/oor/OOR_2015_FULL.pdf) (2015): 1–15.
+National Low Income Housing Coalition. ["Out of Reach Introduction and Where The Numbers Come From." (PDF - 9.0MB)](http://nlihc.org/sites/default/files/oor/OOR_2015_FULL.pdf) (2015): 1–15.
 
 Landis, John, and Kirk McClure. "[Rethinking Federal Housing Policy](http://dx.doi.org/10.1080/01944363.2010.484793)." _Journal of the American Planning Association_ 76, no. 3 (2010): 319–48.
 
-Bipartisan Policy Center. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Housing America's Future: New Directions for National Policy." (PDF - 2.9MB)](https://bipartisanpolicy.org/report/housing-americas-future-new-directions-national-policy/) 2013.
+Bipartisan Policy Center. ["Housing America's Future: New Directions for National Policy." (PDF - 2.9MB)](https://bipartisanpolicy.org/report/housing-americas-future-new-directions-national-policy/) 2013.
 
-Citizens Housing and Planning Association. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["CHAPA Policy Summary on State Housing and Community Development Policy." (PDF - 8.5MB)](https://www.chapa.org/sites/default/files/2014State%20HousingPolicySummary_final.pdf?utm_source=CHAPA+Email+List+ALL&utm_campaign=0dcc0737e3-Gub_Candidates_on_Housing_Pre_Primary9_4_2014&utm_medium=email&utm_term=0_d885809bc2-0dcc0737e3-105109853) 2014.
+Citizens Housing and Planning Association. ["CHAPA Policy Summary on State Housing and Community Development Policy." (PDF - 8.5MB)](https://www.chapa.org/sites/default/files/2014State%20HousingPolicySummary_final.pdf?utm_source=CHAPA+Email+List+ALL&utm_campaign=0dcc0737e3-Gub_Candidates_on_Housing_Pre_Primary9_4_2014&utm_medium=email&utm_term=0_d885809bc2-0dcc0737e3-105109853) 2014.
 
 City of Boston. ["Housing A Changing City: Boston 2030." (PDF - 19.9MB)](http://www.cityofboston.gov/dnd/pdfs/boston2030/Housing_A_Changing_City-Boston_2030_full_plan.pdf) 2014.
 
@@ -268,9 +268,9 @@ Reid, Carolina. ["To Buy or Not to Buy? Understanding Tenure Preferences and the
 
 Quigley, John, and Steven Raphael. "[Is Housing Unaffordable? Why Isn't It More Affordable?](http://dx.doi.org/10.1257/089533004773563494)" _Journal of Economic Perspectives_ 18, no. 1 (2004): 191–214.
 
-Herbert, Chris E., Eric S. Belsky, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Critical Housing Finance Challenges for Policymakers Joint Center for Housing." (PDF - 1.9MB)](http://www.jchs.harvard.edu/sites/jchs.harvard.edu/files/w12-2_herbert_belsky_apgar.pdf) What Works Collaborative Working Paper, 2012.
+Herbert, Chris E., Eric S. Belsky, et al. ["Critical Housing Finance Challenges for Policymakers Joint Center for Housing." (PDF - 1.9MB)](http://www.jchs.harvard.edu/sites/jchs.harvard.edu/files/w12-2_herbert_belsky_apgar.pdf) What Works Collaborative Working Paper, 2012.
 
-Engel, Kathleen C., and Patricia A. McCoy. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Tale of Three Markets: The Law and Economics of Predator Lending." (PDF)](http://lawdigitalcommons.bc.edu/cgi/viewcontent.cgi?article=1783&context=lsfp)
+Engel, Kathleen C., and Patricia A. McCoy. ["A Tale of Three Markets: The Law and Economics of Predator Lending." (PDF)](http://lawdigitalcommons.bc.edu/cgi/viewcontent.cgi?article=1783&context=lsfp)
 
 Achtenberg, Emily Paradise, and Peter Marcuse. "The Causes of the Housing Problem." In _Critical Perspectives in Housing_. Edited by Rachel G. Bratt, et al. Temple University Press, 1986. ISBN: 9780877223962.
 
@@ -344,7 +344,7 @@ Vale, Lawrence J. "Standardizing Public Housing." In _Regulating Place: Standard
 
 Vale, Lawrence J., and Yonah Freemark. From "[Public Housing to Public-Private Housing](http://dx.doi.org/10.1080/01944363.2012.737985)." _Journal of the American Planning Association_ 78, no. 4 (2012): 379–402.
 
-Popkin, Susan, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Decade of HOPE VI: Research Findings and Policy Challenges." (PDF)](http://www.urban.org/sites/default/files/alfresco/publication-pdfs/411002-A-Decade-of-HOPE-VI.PDF) The Urban Institute and Brookings Institution, 2004. (Executive Summary only.)
+Popkin, Susan, et al. ["A Decade of HOPE VI: Research Findings and Policy Challenges." (PDF)](http://www.urban.org/sites/default/files/alfresco/publication-pdfs/411002-A-Decade-of-HOPE-VI.PDF) The Urban Institute and Brookings Institution, 2004. (Executive Summary only.)
 
 McCormick, Naomi, Mark Joseph, et al. "[The New Stigma of Relocated Public Housing Residents: Challenges to Social Identity in Mixed-Income Developments](http://dx.doi.org/10.1111/j.1540-6040.2012.01411.x)." _City and Community_ 11, no. 3 (2012): 285–308.
 
@@ -444,7 +444,7 @@ Sampson, Robert. "[Moving and the Neighborhood Glass Ceiling](http://dx.doi.org/
 
 ["Housing Discrimination Against Racial and Ethnic Minorities 2012 (PDF - 4.3MB).](http://www.huduser.gov/portal//Publications/pdf/HUD-514_HDS2012.pdf)" U.S. Department of Housing and Urban Development, 2013.
 
-Rogers, Christy, Jason Reece, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Fair Credit and Fair Housing in the Wake of the Subprime Lending and Foreclosure Crisis: Findings from the Kirwan Institute Initiative." (PDF - 1.4MB)](http://kirwaninstitute.osu.edu/docs/publications/fair_credit_fair_housing_summary_report.pdf)
+Rogers, Christy, Jason Reece, et al. ["Fair Credit and Fair Housing in the Wake of the Subprime Lending and Foreclosure Crisis: Findings from the Kirwan Institute Initiative." (PDF - 1.4MB)](http://kirwaninstitute.osu.edu/docs/publications/fair_credit_fair_housing_summary_report.pdf)
 
 ### Video
 
@@ -502,7 +502,7 @@ Job quality and upgrading
 
 {{< tdclose >}}
 {{< tdopen >}}
-The Apollo Alliance and Green for All with Center for American Progress and Center on Wisonsin Strategy. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Green-Collar Jobs in America's Cities." (PDF - 1.5MB)](http://cdn.americanprogress.org/wp-content/uploads/issues/2008/03/pdf/green_collar_jobs.pdf)
+The Apollo Alliance and Green for All with Center for American Progress and Center on Wisonsin Strategy. ["Green-Collar Jobs in America's Cities." (PDF - 1.5MB)](http://cdn.americanprogress.org/wp-content/uploads/issues/2008/03/pdf/green_collar_jobs.pdf)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -551,7 +551,7 @@ Weissbourd, and Muro. "[Metropolitan Business Plans: A New Approach to Economic 
 Clark, et al. _The Oxford Handbook of Economic Geography_. Oxford University Press, 2003. ISBN: 9780199250837.
 
 Does Manufacturing Matter?  
-Helper, Krueger, and Wial. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Why Does Manufacturing Matter? Which Manufacturing Matters? A Policy Framework." (PDF - 1.9MB)](https://www.brookings.edu/wp-content/uploads/2016/06/0222_manufacturing_helper_krueger_wial.pdf) The Brookings Institution, 2012.
+Helper, Krueger, and Wial. ["Why Does Manufacturing Matter? Which Manufacturing Matters? A Policy Framework." (PDF - 1.9MB)](https://www.brookings.edu/wp-content/uploads/2016/06/0222_manufacturing_helper_krueger_wial.pdf) The Brookings Institution, 2012.
 
 Do We Need a Manufacturing Policy?  
 Romer. "[Do Manufacturers Need Special Treatment?](http://www.nytimes.com/2012/02/05/business/do-manufacturers-need-special-treatment-economic-view.html)," _The New York Times_, February 4, 2012.
@@ -578,13 +578,13 @@ Robinson, Cedric J. _Black Marxism: The Making of the Black Radical Tradition_. 
 
 Graeber, David. Chapter 1 in _Debt: The First 5,000 Years_. Melville House, 2011. ISBN: 9781933633862.
 
-Cortight, Joseph. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Making Sense of Clusters: Regional Competitiveness and Economic Development." (PDF)](https://www.brookings.edu/research/making-sense-of-clusters-regional-competitiveness-and-economic-development/) The Brookings Institution Metropolitan Policy Program, 2006.
+Cortight, Joseph. ["Making Sense of Clusters: Regional Competitiveness and Economic Development." (PDF)](https://www.brookings.edu/research/making-sense-of-clusters-regional-competitiveness-and-economic-development/) The Brookings Institution Metropolitan Policy Program, 2006.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Economic Prosperity Strategy." (PDF - 6.9MB)](http://www.spur.org/sites/default/files/publications_pdfs/Economic_Prosperity_Strategy.pdf) 2014.
+["Economic Prosperity Strategy." (PDF - 6.9MB)](http://www.spur.org/sites/default/files/publications_pdfs/Economic_Prosperity_Strategy.pdf) 2014.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["OpportunityNewark: Jobs and Community Development for the 21st Century." (PDF - 3.5MB)](http://icic.org/wp-content/uploads/2016/04/OppNewark_06_April.pdf) Executive Summary.
+["OpportunityNewark: Jobs and Community Development for the 21st Century." (PDF - 3.5MB)](http://icic.org/wp-content/uploads/2016/04/OppNewark_06_April.pdf) Executive Summary.
 
-Porter, Michael E. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Clusters, Innovation, and Competitiveness: New Findings and Implications for Policy." (PDF - 1.2MB)](http://www.hbs.edu/faculty/Pages/download.aspx?name=20080122_EuropeanClusterPolicy.pdf) European Presidency Conference on Innovation and Clusters, 2008.
+Porter, Michael E. ["Clusters, Innovation, and Competitiveness: New Findings and Implications for Policy." (PDF - 1.2MB)](http://www.hbs.edu/faculty/Pages/download.aspx?name=20080122_EuropeanClusterPolicy.pdf) European Presidency Conference on Innovation and Clusters, 2008.
 
 
 {{< tdclose >}}
@@ -610,7 +610,7 @@ Northridge, et al. "Reinventing Health and Sustainable Communities: Reconnecting
 
 Vitiello, Domenic, and Catherine Brinkley. "[The Hidden History of Food System Planning](http://dx.doi.org/10.1177/1538513213507541)." _Journal of Planning History_ 13, no. 2 (2014): 91–112.
 
-Boes, Kevin. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Connecting Housing and Health Care Through Community Development." (PDF)](http://www.frbsf.org/community-development/files/Boes_CISP13.pdf) _Community Investments_ 25, no. 1 (2013).
+Boes, Kevin. ["Connecting Housing and Health Care Through Community Development." (PDF)](http://www.frbsf.org/community-development/files/Boes_CISP13.pdf) _Community Investments_ 25, no. 1 (2013).
 
 ["California Communities Environmental Health Screening Tool, Version 2.0." (PDF - 7.2MB)](http://oehha.ca.gov/media/CES20FinalReportUpdateOct2014.pdf) Guidance and Screening Tool, 2014.
 

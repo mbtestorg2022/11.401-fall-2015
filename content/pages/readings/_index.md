@@ -121,7 +121,7 @@ Income, wealth, and the political economy of inequality
 
 \[EM\] Chapters 1 and 3.
 
-Levy, Frank, and Peter Temin. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Inequality and Institutions in 20th Century America." (PDF)](http://www.nber.org/papers/w13106.pdf) _NBER Working Paper,_ 2007.
+Levy, Frank, and Peter Temin. ["Inequality and Institutions in 20th Century America." (PDF)](http://www.nber.org/papers/w13106.pdf) _NBER Working Paper,_ 2007.
 
 Hacker, Jacob, and Paul Pierson. "The Winner Take All Economy." Chapter 1 in _Winner Take All Politics: How Washington Made the Rich Richer—and Turned Its Back on the Middle Class_. Simon and Schuster, 2010, pp. 11–40. ISBN: 9781416588696. \[Preview with [Google Books](http://books.google.com/books?id=oQ8mv52KmBIC&pg=PA11=onepage)\]
 
@@ -223,7 +223,7 @@ Detroit LISC. "[The History of Detroit LISC](https://youtu.be/yVziDkjODTA?list=F
 
 \[JD\] Glickman, Norman J., and Lisa J. Servon. Chapter 6: More than Bricks and Sticks.
 
-Briggs, Xavier de Souza. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Rethinking Community Development." (PDF)](http://web.mit.edu/workingsmarter/media/pdf-ws-kia-brief-0701.pdf) Working Smarter in Community Development, 2007. (Brief 1)
+Briggs, Xavier de Souza. ["Rethinking Community Development." (PDF)](http://web.mit.edu/workingsmarter/media/pdf-ws-kia-brief-0701.pdf) Working Smarter in Community Development, 2007. (Brief 1)
 
 Erickson, Peter J. "Building the Decentralized Housing Network" and "The Decentralized Housing Network and the Rise of a New Institution." Chapters 2 and 5 in _The Housing Policy Revolution: Networks and Neighbors._ Urban Institute, 2009, pp. 35–68 and 145–61. ISBN: 9780877667605.
 
@@ -245,7 +245,7 @@ Governance at multiple scales (neighborhood, city, region)
 
 \[JD\] Greenberg, David Micah. "How Does Community Matter for Community Organizing."
 
-Briggs, Xavier de Souza. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Networks, Power and a Dual Agenda: New Lessons and Strategies for Old Community Building Dilemmas." (PDF)](http://web.mit.edu/workingsmarter/media/pdf-ws-kia-brief-0703.pdf) Working Smarter in Community Development Series, 2007. (Brief 3)
+Briggs, Xavier de Souza. ["Networks, Power and a Dual Agenda: New Lessons and Strategies for Old Community Building Dilemmas." (PDF)](http://web.mit.edu/workingsmarter/media/pdf-ws-kia-brief-0703.pdf) Working Smarter in Community Development Series, 2007. (Brief 3)
 
 Meyerson, Harold. "[L.A. Story](https://prospect.org/features/l.a.-story/)." _The American Prospect_, July-August 2013.
 
@@ -271,7 +271,7 @@ Housing markets and policy: The basics
 {{< tdopen >}}
 
 
-Kennedy, Margrit. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["If Money Rules the World–Who Rules Money?" (PDF)](https://issuu.com/helyipenz/docs/margrit-kennedy---if-money-rules-the-world---who-r) Green Money, 2008.
+Kennedy, Margrit. ["If Money Rules the World–Who Rules Money?" (PDF)](https://issuu.com/helyipenz/docs/margrit-kennedy---if-money-rules-the-world---who-r) Green Money, 2008.
 
 Schwartz, Alex F. Chapters 1 and 2 in _Housing Policy in the United States_. Routledge, 2014. ISBN: 9780415836500.
 
@@ -315,7 +315,7 @@ Rental housing
 
 \[AD\] Katz, Bruce, and Margery Turner. "Rethinking U.S. Rental Policy."
 
-Haveman, Robert. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Do Housing Vouchers Work?" (PDF)](http://web.stanford.edu/group/scspi/_media/pdf/pathways/spring_2013/Pathways_Spring_2013_Haveman.pdf) _Pathways_ 2013, pp. 15–17.
+Haveman, Robert. ["Do Housing Vouchers Work?" (PDF)](http://web.stanford.edu/group/scspi/_media/pdf/pathways/spring_2013/Pathways_Spring_2013_Haveman.pdf) _Pathways_ 2013, pp. 15–17.
 
 
 {{< tdclose >}}
@@ -387,7 +387,7 @@ Affordable housing, smart growth, and regional land use
 
 \[RP\] "Connecting Smart Growth, Affordable Housing and Racial Equity."
 
-Quigley, John M., Steven Raphael, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Measuring Land Use Regulations and Their Effects in the Housing Market" (PDF - 1.2MB)](http://urbanpolicy.berkeley.edu/pdf/QRR_land_use_regs_050609.pdf) with Commentaries by Richard K. Green and Stephen Malpezzi. Program on Housing and Urban Policy, 2009.
+Quigley, John M., Steven Raphael, et al. ["Measuring Land Use Regulations and Their Effects in the Housing Market" (PDF - 1.2MB)](http://urbanpolicy.berkeley.edu/pdf/QRR_land_use_regs_050609.pdf) with Commentaries by Richard K. Green and Stephen Malpezzi. Program on Housing and Urban Policy, 2009.
 
 Edward L. Glaeser, John M. Quigley, eds. _Housing Markets and the Economy: Risk, Regulation, and Policy: Essays in Honor of Karl E. Case_. Lincoln Institute of Land policy, 2009. ISBN: 9781558441842.
 
@@ -435,7 +435,7 @@ Mallach, Alan. "[The Mount Laurel Doctrine And The Uncertainties Of Social Polic
 
 Gordon, Adam, Kathy O'Regan, et al. "[Housing Subsidies and Inclusive Communities](http://furmancenter.org/research/iri/discussions/housing-subsidies-inclusive-communities)." 2015.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Affirmatively Furthering Fair Housing." (PDF)](https://www.gpo.gov/fdsys/pkg/FR-2015-07-16/pdf/2015-17032.pdf) _Federal Register_ 80, no. 136 (2015): 42348–71. (Skim pages)
+["Affirmatively Furthering Fair Housing." (PDF)](https://www.gpo.gov/fdsys/pkg/FR-2015-07-16/pdf/2015-17032.pdf) _Federal Register_ 80, no. 136 (2015): 42348–71. (Skim pages)
 
 Allen, Michael, Angela Glover Blackwell, et al. "[A New Approach to Affirmatively Furthering Fair Housing](http://furmancenter.org/research/iri/discussions/a-new-approach-to-affirmatively-furthering-fair-housing)." 2015.
 
@@ -477,11 +477,11 @@ Workforce development and cooperative enterprise
 {{< tdopen >}}
 
 
-Siegel, and Seidman. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Economic Development and Workforce Development Systems: A Briefing Paper." (PDF)](https://www.issuelab.org/resources/7128/7128.pdf) Prepared for the Surdna Foundation, 2009.
+Siegel, and Seidman. ["The Economic Development and Workforce Development Systems: A Briefing Paper." (PDF)](https://www.issuelab.org/resources/7128/7128.pdf) Prepared for the Surdna Foundation, 2009.
 
 "[The Field Guide to Investing in a Resilient Economy: Cleveland's Evergreen Cooperatives](http://www.csrwire.com/blog/posts/364-the-field-guide-to-investing-in-a-resilient-economy-clevelands-evergreen-cooperatives)." Capital Institute, 2011.
 
-LA Apollo Alliance campaign for the City of LA ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Good, Green, Safe Jobs: The Los Angeles Green Retrofit and Workforce Program." (PDF)](http://urbanhabitat.org/files/LAGreenJobs.pdf)
+LA Apollo Alliance campaign for the City of LA ["The Good, Green, Safe Jobs: The Los Angeles Green Retrofit and Workforce Program." (PDF)](http://urbanhabitat.org/files/LAGreenJobs.pdf)
 
 City of LA Green Retrofit and Workforce Program fact sheet.
 
@@ -609,9 +609,9 @@ Course review
 {{< tdopen >}}
 
 
-MIT CoLab, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Development Study for the Bronx Community Development Initiative." (PDF - 5.6MB)](https://www.colab.mit.edu/resources-1/2013/10/1/development-study-for-the-bronx-cooperative-development-initiative-a-model-for-economic-transformation) 2012.
+MIT CoLab, et al. ["Development Study for the Bronx Community Development Initiative." (PDF - 5.6MB)](https://www.colab.mit.edu/resources-1/2013/10/1/development-study-for-the-bronx-cooperative-development-initiative-a-model-for-economic-transformation) 2012.
 
-Community Strategy Lab.![This resource may not render correctly in a screen reader.](/images/inacessible.gif) ["Caring for Today, Planning for Tomorrow." (PDF)](http://www.caregiving.org/pdf/resources/nacguide.pdf) 2014. Read Introduction and Summary, pp. 11–39. \[Brooklyn Interfaith hospital reuse project\].
+Community Strategy Lab. ["Caring for Today, Planning for Tomorrow." (PDF)](http://www.caregiving.org/pdf/resources/nacguide.pdf) 2014. Read Introduction and Summary, pp. 11–39. \[Brooklyn Interfaith hospital reuse project\].
 
 
 {{< tdclose >}}
