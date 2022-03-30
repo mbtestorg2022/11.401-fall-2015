@@ -4,6 +4,7 @@ description: This resource contains information regarding introduction to housin
   community, and economic development.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-401-introduction-to-housing-community-and-economic-development-fall-2015/1ad91a3a05f0ba23c0f23c1c229ea2b9_MIT11_401F15_FinalAssign.pdf
 file_type: application/pdf
+parent_uid: cc4321dc-fcc4-3004-0b83-d984c96cdd10
 resourcetype: Document
 title: 11.401F15 Final Assignment
 uid: 1ad91a3a-05f0-ba23-c0f2-3c1c229ea2b9

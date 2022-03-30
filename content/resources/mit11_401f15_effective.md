@@ -4,6 +4,7 @@ description: This resource contains information regarding introduction to housin
   community, and economic development.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-401-introduction-to-housing-community-and-economic-development-fall-2015/27382f59521fa0c00b0c5d1bd015ebe3_MIT11_401F15_Effective.pdf
 file_type: application/pdf
+parent_uid: cc4321dc-fcc4-3004-0b83-d984c96cdd10
 resourcetype: Document
 title: 11.401F15 Effective Professional Writing
 uid: 27382f59-521f-a0c0-0b0c-5d1bd015ebe3
